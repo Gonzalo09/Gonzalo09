@@ -1,4 +1,4 @@
-<h1 align="center">¡𝐇ola! Bienvenidx a mi Github <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+<h1 align="center">¡𝐇ola! Bienvenidx a mi GitHub <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
   
 <br>
 <p align="center">
