@@ -13,9 +13,14 @@
 ###
 
 <p align="center">
-<em>
-  Soy <strong>Gonzalo Iglesias</strong>, estudiante de la carrera Licenciatura en Informática en la Universidad Nacional de Hurlingham
-</em> 
+  <em>
+    Soy <b>Gonzalo Iglesias</b>, estudiante de la carrera de <b>Licenciatura en Informática</b> en la <b>Universidad Nacional de Hurlingham</b> 
+    <br>
+    Actualmente me encuentro en la búsqueda de mi primera experiencia laboral en el área de desarrollo web. <br>
+    Me gusta trabajar en equipo y poder aportar mis conocimientos para el crecimiento del mismo. <br>
+    <br>
+    <b>¡Gracias por visitar mi perfil!</b> <br>
+  </em>
 </p>
 
 ###
@@ -26,11 +31,32 @@
 
 ###
 
+<h2 align="center"> Un poco más sobre mí </h2>
+
 ```javascript
 const gonzalo = {
-  lenguajes: [Javascript, HTML5, CSS3, React, NodeJS],
-  herramientas: [Figma, Trello, Git, Github],
-}
+  lenguajes: [
+    Javascript,
+    HTML5,
+    CSS3,
+    React,
+    NodeJS,
+    MaterialUI,
+    PostgreSQL,
+    Sequelize,
+    Express,
+  ],
+  herramientas: [Figma, Trello, Git, Github, VSCode, Postman],
+  metodologias: ["SCRUM"],
+  softSkills: [
+    "Trabajo en equipo",
+    "Comunicación",
+    "Adaptabilidad",
+    "Responsabilidad",
+  ],
+  hobbies: ["Videojuegos", "Series", "Música"],
+  objetivo: "Seguir aprendiendo y creciendo como desarrollador web",
+};
 ```
 
 ###
